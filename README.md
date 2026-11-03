@@ -47,6 +47,15 @@ python -m unittest discover -s tests -t .
 
 9 offline tests (no network) covering SPF/DMARC/DKIM rules and scoring.
 
+## Author
+
+Built by **Lotfi Otmanine**, senior WordPress developer at [OLDEV](https://oldev.site).
+
+- Website: [oldev.site](https://oldev.site)
+- Hire me on Upwork: [upwork.com/freelancers/~01bd748fcb665b90ca](https://www.upwork.com/freelancers/~01bd748fcb665b90ca)
+- LinkedIn: [linkedin.com/in/lotfi-otmanine](https://www.linkedin.com/in/lotfi-otmanine)
+- GitHub: [github.com/Lotmanine](https://github.com/Lotmanine)
+
 ## License
 
 MIT.
