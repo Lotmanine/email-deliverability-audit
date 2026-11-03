@@ -1,5 +1,7 @@
 # email-deliverability-audit
 
+[![Tests](https://github.com/Lotmanine/email-deliverability-audit/actions/workflows/tests.yml/badge.svg)](https://github.com/Lotmanine/email-deliverability-audit/actions/workflows/tests.yml)
+
 Checks a domain's email authentication posture (**SPF · DKIM · DMARC · MX**) and rolls the findings into a **scored, severity-bucketed report**. This is the pre-flight check I run before any cold-sending or CRM/ESP migration: if these records are wrong, nothing else about deliverability matters.
 
 ## Design
